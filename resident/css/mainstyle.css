@@ -1,0 +1,62 @@
+.bg{
+    background-image: url("../images/hpbrgyhall.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgs{
+    background-image: url("../images/conbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mvbg{
+    width: 400px;
+    height: 300px;
+}
+
+.carou img{
+    width:1500px;
+    height:600px;
+}
+
+#blog .single_post{
+    display: none;
+}
+
+#blog .loadless{
+    display: none;
+}
+
+.carousels img{
+    width:1500px;
+    height:600px;
+}
+
+.announ img{
+    width: 700px;
+    height: 300px;
+}
+
+.anno {
+    width:100%;
+    height: 300px;
+}
+
+#anblog .ansingle_post{
+    display: none;
+}
+
+#anblog .anloadless{
+    display: none;
+}
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
+}
